@@ -1,12 +1,12 @@
 {
   "name": "svn_backup",
   "version": "0.1.0",
-  "description": "backup the full svn repo from the remote server using:",
+  "description": "back up and compress a list of svn repositories",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Marc Newport <marcnewport@gmail.com> (http://marcnewport.com)",
+  "author": "marcnewport@gmail.com",
   "license": "ISC",
   "dependencies": {
     "mv": "^2.1.1"
